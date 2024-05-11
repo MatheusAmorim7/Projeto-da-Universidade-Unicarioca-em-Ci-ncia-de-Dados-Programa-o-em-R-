@@ -9,7 +9,7 @@ Este projeto foi desenvolvido como parte do trabalho da Pós Graduação em Ciê
 
 ## Objetivo
 
-Utilizar análises técnicas e métodos estátisticos do sistema financeiro para visualizar a volatilidade do mercado e identificar momentos de compra e venda de ações do Itaú.
+Utilizar análises técnicas e métodos estátisticos do sistema financeiro para visualizar a volatilidade do mercado e identificar momentos de compra e venda de ações do Itaú
 
 ## Principais Resultados
 
